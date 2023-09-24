@@ -16,4 +16,4 @@ This is a simple stopwatch web application built using HTML, CSS, and JavaScript
 1. Clone the repository:
 
    ```bash
-   git clone https://parmodkumar28.github.io/Stopwatch-Project/
+   git clone https://github.com/ParmodKumar28/Stopwatch-Project
