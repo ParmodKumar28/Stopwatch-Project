@@ -1,4 +1,4 @@
-# Stopwatch-Project
+# Stopwatch
 This is a simple stopwatch web application built using HTML, CSS, and JavaScript.
 
 ## Features
